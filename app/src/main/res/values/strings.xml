@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="edit_view_text">Введите текст</string>
+    <string name="edit_view_button_text">Отправить</string>
+    <string name="text_view_header">Ваш текст:</string>
+    <string name="text_view_receiver">[Введенный текст будет тут]</string>
+</resources>
